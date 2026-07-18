@@ -42,21 +42,21 @@ export function HeroSection() {
             <Link href="/resume.pdf" target="_blank" className="inline-flex">
               <Button variant="secondary">Download Resume</Button>
             </Link>
-            <Link href="#contact" className="inline-flex">
+            <Link href="mailto:rijaazeem2828@gmail.com" className="inline-flex">
               <Button variant="secondary">Contact Me</Button>
             </Link>
           </div>
           <div className="mt-10 flex flex-wrap items-center gap-4 text-zinc-500 dark:text-zinc-400">
-            <a href="https://github.com/rija-azeem" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-white/5">
+            <a href="https://github.com/rijaazeem-28" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-white/5">
               <FaGithub size={18} /> GitHub
             </a>
-            <a href="https://linkedin.com/in/rija-azeem" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-white/5">
+            <a href="https://www.linkedin.com/in/rija-azeem-29711037a" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-white/5">
               <FaLinkedin size={18} /> LinkedIn
             </a>
             <a href="https://instagram.com/rija.azeem" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-white/5">
               <FaInstagram size={18} /> Instagram
             </a>
-            <a href="mailto:hello@rija-azeem.dev" className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-white/5">
+            <a href="mailto:rijaazeem2828@gmail.com" className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-white/5">
               <Mail size={18} /> Email
             </a>
           </div>
@@ -86,7 +86,7 @@ export function HeroSection() {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Experience</p>
-                  <p>3 Years</p>
+                  <p>2 Years</p>
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Clients</p>

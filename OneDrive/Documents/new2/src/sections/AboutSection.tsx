@@ -30,14 +30,9 @@ export function AboutSection() {
             <SectionCard title="Career Journey">
               <ul className="space-y-4">
                 <li>
-                  <strong>2024:</strong> Full Stack MERN Developer delivering client projects with modern stacks.
+                  My journey into web development began with a curiosity about how websites work. Since then, I've been learning modern technologies like React, Node.js, Express, MongoDB, Next.js, and PostgreSQL by building real-world projects. Every project helps me improve my problem-solving skills and understand full-stack development more deeply.           
                 </li>
-                <li>
-                  <strong>2023:</strong> Software Engineering Intern building internal dashboards and reusable UI systems.
-                </li>
-                <li>
-                  <strong>2022:</strong> Junior Web Developer creating responsive marketing sites for agencies.
-                </li>
+                
               </ul>
             </SectionCard>
           </div>

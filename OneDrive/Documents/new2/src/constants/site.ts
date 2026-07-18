@@ -3,7 +3,7 @@ export const siteConfig = {
   description:
     "Rija Azeem is a Full Stack MERN Developer building modern, fast and scalable web applications.",
   url: "https://rija-azeem.dev",
-  email: "hello@rija-azeem.dev",
+  email: "rijaazeem2828@gmail.com",
   keywords: ["Full Stack Developer", "MERN", "Next.js", "React", "TypeScript", "Portfolio"],
   navItems: [
     { title: "Home", href: "#home" },
@@ -16,9 +16,9 @@ export const siteConfig = {
     { title: "Contact", href: "#contact" },
   ],
   socialLinks: [
-    { label: "GitHub", href: "https://github.com/rija-azeem" },
-    { label: "LinkedIn", href: "https://linkedin.com/in/rija-azeem" },
+    { label: "GitHub", href: "https://github.com/rijaazeem-28" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/rija-azeem-29711037a" },
     { label: "Instagram", href: "https://instagram.com/rija.azeem" },
-    { label: "Email", href: "mailto:hello@rija-azeem.dev" },
+    { label: "Email", href: "mailto:rijaazeem2828@gmail.com" },
   ],
 };

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rija-azeem.dev/sitemap.xml

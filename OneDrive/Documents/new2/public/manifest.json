@@ -1,0 +1,16 @@
+{
+  "name": "Rija Azeem Portfolio",
+  "short_name": "RijaAzeem",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#06b6d4",
+  "description": "A premium developer portfolio for Full Stack MERN development.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "48x48"
+    }
+  ]
+}

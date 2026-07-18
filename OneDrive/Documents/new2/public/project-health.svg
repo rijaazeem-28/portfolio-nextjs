@@ -1,0 +1,9 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" rx="48" fill="#061014"/>
+  <rect x="220" y="200" width="1160" height="620" rx="40" fill="#111827"/>
+  <rect x="320" y="300" width="420" height="420" rx="40" fill="#0d9488" fill-opacity="0.15"/>
+  <rect x="840" y="300" width="520" height="220" rx="30" fill="#14b8a6" fill-opacity="0.14"/>
+  <rect x="840" y="560" width="520" height="160" rx="30" fill="#f8fafc" fill-opacity="0.08"/>
+  <text x="360" y="520" fill="#ffffff" font-size="72" font-weight="700" font-family="Inter, sans-serif">Health</text>
+  <text x="360" y="790" fill="#94a3b8" font-size="36" font-weight="600" font-family="Inter, sans-serif">Prediction dashboard</text>
+</svg>

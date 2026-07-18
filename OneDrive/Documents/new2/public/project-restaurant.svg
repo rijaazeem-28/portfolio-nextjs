@@ -1,0 +1,11 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" rx="48" fill="#09132a"/>
+  <circle cx="400" cy="360" r="140" fill="#f8fafc" fill-opacity="0.05" />
+  <rect x="520" y="240" width="760" height="440" rx="40" fill="#f8fafc" fill-opacity="0.12"/>
+  <rect x="620" y="320" width="560" height="80" rx="24" fill="#0ea5e9" />
+  <rect x="620" y="430" width="420" height="48" rx="16" fill="#ffffff" fill-opacity="0.72" />
+  <rect x="620" y="500" width="360" height="48" rx="16" fill="#a5b4fc" fill-opacity="0.75" />
+  <rect x="620" y="570" width="520" height="48" rx="16" fill="#c7d2fe" fill-opacity="0.6" />
+  <text x="240" y="180" fill="#38bdf8" font-size="64" font-weight="700" font-family="Inter, sans-serif">Restaurant</text>
+  <text x="240" y="780" fill="#cbd5e1" font-size="42" font-weight="600" font-family="Inter, sans-serif">Management system</text>
+</svg>

@@ -218,14 +218,14 @@ export const services: Service[] = [
 
 export const experience: TimelineItem[] = [
   {
-    year: "2024 - 2026",
+    year: "2026",
     title: "Full Stack MERN Developer",
     subtitle: "Freelance & Contract Work",
     description:
       "Delivered end-to-end projects for clients using React, Next.js, and MongoDB.",
   },
   {
-    year: "2026 -present",
+    year: "2026",
     title: "MERN Stack Intern",
     subtitle: "Growth-stage startup",
     description:

@@ -242,17 +242,17 @@ export const experience: TimelineItem[] = [
 
 export const education: TimelineItem[] = [
   {
-    year: "2021 - 2025",
+    year: "2024 -present",
     title: "B.Sc. Computer Science",
-    subtitle: "University of Lahore",
+    subtitle: "University of Central Punjab",
     description:
       "Specialization in software engineering, data structures, and web systems.",
   },
   {
-    year: "2020",
-    title: "Full Stack Web Bootcamp",
-    subtitle: "Online Certification",
+    year: "2026",
+    title: "MERN Stack Development Course",
+    subtitle: "EVS Certification",
     description:
-      "Completed a hands-on MERN development bootcamp with practical applications.",
+      "Completed a hands-on MERN development course with practical applications.",
   },
 ];
